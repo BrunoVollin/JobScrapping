@@ -30,4 +30,5 @@ O projeto Job Scrapping é um projeto que coleta as informações de vagas de em
 </li>
 <li>Fabio Neto</li>
 <li>George Luis Costa Ribeiro</li>
+<li>Leonardo Sabra Barcia Lang</li>
 </la>
