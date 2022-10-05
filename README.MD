@@ -1,3 +1,7 @@
+<img src="https://user-images.githubusercontent.com/61352086/194158541-07e551e3-8fd1-4289-b16f-eebf5afb3fad.png" alt="made by lang" 
+style="width: 100px; height: 100px;"/>
+
+
 # Projeto Job Scrapping
 
 <p style="color: gray">Disciplina C214 L1 CI/CD</p>
