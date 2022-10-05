@@ -27,7 +27,7 @@ O projeto Job Scrapping é um projeto que coleta as informações de vagas de em
 <img src="https://media.discordapp.net/attachments/1024678433722208351/1024700658017894470/Diagrama_sem_nome.draddewdewddwio.jpg" />
 </li>
 
-## Authores
+## Autores
 <la>
 <li>
   Bruno Almeida Vasconcelos 
